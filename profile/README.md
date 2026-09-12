@@ -1,3 +1,3 @@
-Blaze Organization
+# Blaze Organization
 
 Work in Progress
